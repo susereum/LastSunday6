@@ -23,10 +23,10 @@ pproval_treshold = [ 1, 1,]
 proposal_active_days = [ 5, 1,]
 
 [code_smells.class]
-LargeClass = [ 999, 1,]
+SmallClass = [ 91, 1,]
 GodClass = [ 5, 1,]
 InappropriateIntimacy = [ 2, 1,]
-SmallClass = [ 91, 1,]
+LargeClass = [ 999, 1,]
 
 [code_smells.comments]
 CommentsToCodeRatioUpper = [ 0.1, 1.0,]
